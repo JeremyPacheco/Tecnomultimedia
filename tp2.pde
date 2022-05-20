@@ -13,9 +13,9 @@ void setup(){
   size(1000, 600);
   pantalla = 1;
   x = 0;
-  
-  
-   //Fondo//
+
+
+   //Fondo del juego//
   imgZelda = loadImage("The-Legend-of-Zelda-110614-001.jpg");
   imgZelda.resize(1000, 600);
   img2 = loadImage("Zelda_Breath_of_the_Wild_BotW_Logo.png");
