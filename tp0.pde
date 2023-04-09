@@ -2,7 +2,7 @@ void setup(){
   size(400,400);
 }
 void draw(){
-  //fondo//
+  //fondo //
   background(255);
   fill(255,137,0);
   rect(10,10,300,300);
